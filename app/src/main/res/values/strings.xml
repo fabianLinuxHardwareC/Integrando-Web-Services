@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Petagram</string>
+
+    <string name="mensaje_bienvenida">Bienvenido a nuestra aplicación Petagram</string>
+
+    <string name="texto_iniciar">Iniciar</string>
+
+    <string name="texto_creditos">Créditos de la aplicación</string>
+
+    <string name="descripcion_logo">Logo de Petagram</string>
+
+    <string name="nombre_perfil">Ronny</string>
+
+    <string name="titulo_configuracion">Petagram</string>
+
+    <string name="texto_usuario_instagram">Nombre de usuario</string>
+
+    <string name="texto_guardar_cuenta">Guardar cuenta</string>
+
+    <string name="menu_inicio">Inicio</string>
+
+    <string name="menu_contacto">Contacto</string>
+
+    <string name="menu_acerca">Acerca de</string>
+
+    <string name="menu_configurar">Configurar cuenta</string>
+
+    <string name="menu_volver">Volver al perfil</string>
+
+    <string name="descripcion_perfil">Imagen del perfil</string>
+
+    <string name="descripcion_foto">Fotografía de mascota</string>
+
+    <string name="descripcion_camara">Abrir cámara</string>
+
+    <string name="hueso_icono">🦴</string>
+
+    <string name="cantidad_ejemplo">5</string>
+
+    <string name="mensaje_autor">Desarrollado por: Fabián Ferrer</string>
+
+    <string name="mensaje_acerca">Petagram es una aplicación desarrollada con Kotlin, Retrofit, Gson, Glide y RecyclerView para visualizar fotografías de mascotas mediante servicios web.</string>
+
+    <string name="mensaje_contacto">La información de contacto estará disponible próximamente.</string>
+
+    <string name="mensaje_camara">No se capturó ninguna fotografía</string>
+
+    <string name="titulo_fotografia">Fotografía capturada</string>
+
+    <string name="mensaje_usuario_vacio">Debes escribir un usuario</string>
+
+    <string name="mensaje_usuario_guardado">Usuario guardado en el dispositivo</string>
+
+    <string name="boton_aceptar">Aceptar</string>
+
+    <string name="mensaje_conexion_ok">Conexión correcta. Publicación #%1$d</string>
+
+    <string name="mensaje_error_servidor">El servidor no devolvió una respuesta válida</string>
+
+    <string name="mensaje_error_conexion">No fue posible conectar con el servicio web</string>
+
+</resources>
